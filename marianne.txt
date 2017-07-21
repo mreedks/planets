@@ -1,0 +1,23 @@
+commit 549d6933c415a9e2534ba0be86c835d5e9fc8977
+Author: Marianne Reed <mreed@ku.edu>
+Date:   Fri Jul 21 11:28:54 2017 -0500
+
+    Adding notes about moons
+
+commit 75ce94045349d0e17d52bb91260129b0ffe1a6b1
+Author: Marianne Reed <mreed@ku.edu>
+Date:   Fri Jul 21 11:22:18 2017 -0500
+
+    Discuss effects of Mars' climate on Mummy
+
+commit 7cd6cc979aaa45ee8bcf043da3d180d345379eda
+Author: Marianne Reed <mreed@ku.edu>
+Date:   Fri Jul 21 11:14:55 2017 -0500
+
+    Add concerns about the effects of Mars' moons on Wolfman
+
+commit 9ad08db9d02a50b5d50bed5f7e6ca264f4a3d674
+Author: Marianne Reed <mreed@ku.edu>
+Date:   Fri Jul 21 11:03:40 2017 -0500
+
+    Start notes on Mars as a base
